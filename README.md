@@ -1,4 +1,4 @@
-# Web-Application-using-Flask-Python-Msql
+# Web-Application-using-Flask-Python-Mysql
 
 Clone this project
 
